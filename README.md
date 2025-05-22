@@ -74,14 +74,11 @@
 ---
 
 ## 📸 Snapshots
+![WhatsApp Image 2025-05-22 at 08 09 57_9ff89125](https://github.com/user-attachments/assets/803abf00-7ed6-4886-bdb1-41c85ad3b35b)
 
-*Include these images in your repo and update the paths if hosted externally:*
+![WhatsApp Image 2025-05-22 at 08 09 57_a988e206](https://github.com/user-attachments/assets/ef8f3acc-2895-44ac-92e1-28f2193d1585)
 
-```markdown
-![Dashboard Overview](./snapshot_overview1.png)
-![City Sales & Segments](./snapshot_city_sales2.png)
-![Ship Mode & Insights](./snapshot_shipmode3.png)
-```
+
 
 ---
 
